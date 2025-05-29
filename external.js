@@ -1,4 +1,4 @@
-
+// External Javascript.
 
     function changing_text_one() {
         document.getElementById("demo").innerHTML = "This is the First Paragraph."
